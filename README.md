@@ -1,1 +1,1 @@
-# tabio13
+Versión con validación exacta de columnas basada en la base de datos real de Tabio 2024.
